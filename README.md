@@ -40,6 +40,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://wa.me/573158069212" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 </div>
 
 ---
@@ -96,7 +100,13 @@
 
 ---
 
+## 🐍 Snake Contribution Animation
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jhonmarin22/jhonmarin22/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
 
 ---
 
@@ -111,3 +121,4 @@
 ### ⚡ Thanks for visiting my profile ⚡
 
 </div>
+
