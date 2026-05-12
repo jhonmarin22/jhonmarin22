@@ -82,16 +82,6 @@
 * 🚀 Full Stack Applications
 * 🏗️ Software Architecture
 
----
-
-
-
----
-
-
-
----
-
 
 ---
 
