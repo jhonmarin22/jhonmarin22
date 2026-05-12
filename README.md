@@ -64,6 +64,12 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,python,docker,git,vscode" />
 
+### 🤖 Automation & AI
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+* ⚡ Learning n8n Automation Workflows
+
 </div>
 
 ---
@@ -71,42 +77,21 @@
 ## 🎯 Current Focus
 
 * ⚛️ Frontend Development with React & Next.js
-* 🤖 Artificial Intelligence
+* 🤖 Artificial Intelligence & Automation with n8n
 * 🐳 Docker & Containers
 * 🚀 Full Stack Applications
 * 🏗️ Software Architecture
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonmarin22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmarin22&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
-## 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jhonmarin22&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
-## 🐍 Snake Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jhonmarin22/jhonmarin22/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
 
 ---
 
@@ -121,4 +106,3 @@
 ### ⚡ Thanks for visiting my profile ⚡
 
 </div>
-
