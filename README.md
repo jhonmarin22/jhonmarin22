@@ -96,13 +96,7 @@
 
 ---
 
-## 🐍 Snake Contribution Animation
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jhonmarin22/jhonmarin22/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
 
 ---
 
