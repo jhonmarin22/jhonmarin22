@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-💻 Systems Engineering Student — 6th Semester
+💻 Systems Engineering Student —6th Semester
 🎓 Corporación Universitaria del Huila
 🌐 Passionate about Frontend Development & Artificial Intelligence
 ⚡ Focused on building modern web applications and scalable systems
